@@ -1,6 +1,6 @@
 # M5Stack Timer Camera X Photo Capture
 
-## Processing sketch experiments capturing still photos with the Timer Camera X.
+## Experiments capturing still photos with the Timer Camera X.
  
 Processing.org Java sketch requests JPG still images from Timer Camera X and saves in output folder
 
@@ -15,5 +15,10 @@ SKU: U082-X
 Requires customized Arduino example web_cam.ino code installed on Timer Camera X with changes for WiFi ssid and password.
 
 
-![Analog screenshot](screenshots/screenshot_anaglyph.jpg)
+![Screenshot](screenshots/TimerCam_192.168.0.104_capture.jpg)
 
+![Screenshot setup](screenshots/TimerCam_192.168.0.104.jpg)
+
+![Screenshot Router security 1](screenshots/Router_TimerCamera.jpg)
+
+![Screenshot Router security 2](screenshots/Router_TimerCameraDisable.jpg)
